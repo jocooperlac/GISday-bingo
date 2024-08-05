@@ -1,4 +1,4 @@
-# Los Angeles COunty GIS Day Bingo
+# Los Angeles County GIS Day Bingo
 
 A game of chance, clicks, and emoji.
 Made with [Svelte](https://github.com/sveltejs/svelte).
