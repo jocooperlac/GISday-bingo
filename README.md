@@ -1,10 +1,8 @@
-![Emoji Bingo](https://i.imgur.com/wTLNrkk.gif)
-
-# Emoji Bingo
+# Los Angeles COunty GIS Day Bingo
 
 A game of chance, clicks, and emoji.
 Made with [Svelte](https://github.com/sveltejs/svelte).
-Click [here](https://lettier.github.io/emoji-bingo/) to play.
+Click [here](https://jocooperlac.github.io/GISday-bingo/) to play.
 
 # Gameplay
 
@@ -16,7 +14,7 @@ The host will click the call button.
 The rest of the group will click the play button.
 
 The host is responsible for
-generating and calling out the randomly chosen emoji
+generating and calling out the randomly chosen word
 as well as verifying each bingo.
 On the call page,
 click the spin button to generate the next randomly chosen emoji.
@@ -65,6 +63,6 @@ python -mwebbrowser http://localhost:55555
 
 ## Copyright
 
-(C) 2020 David Lettier
+Based on original code (C) 2020 David Lettier
 <br>
 [lettier.com](https://www.lettier.com)
