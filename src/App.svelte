@@ -129,7 +129,7 @@
       </div>
       <div>
         <button class="github"
-                on:click="{ () => { window.open('https://github.com/lettier/emoji-bingo'); } }"><span>GitHub<span></button>
+                on:click="{ () => { window.open('https://jocooperlac.github.io/GISday-bingo/'); } }"><span>GitHub<span></button>
       </div>
     </div>
   {:else}
