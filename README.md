@@ -45,7 +45,7 @@ The emoji are located in [main.js](src/main.js).
 # Build
 
 ```bash
-git clone https://github.com/lettier/emoji-bingo.git
+git clone https://github.com/lettier/GISday-bingo.git
 cd emoji-bingo
 # Install Node Version Manager.
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
