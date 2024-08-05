@@ -17,24 +17,22 @@ The host is responsible for
 generating and calling out the randomly chosen word
 as well as verifying each bingo.
 On the call page,
-click the spin button to generate the next randomly chosen emoji.
-Each randomly chosen emoji will show up at the bottom of the call page.
+click the spin button to generate the next randomly chosen geographic term.
+Each randomly chosen geographic term will show up at the bottom of the call page.
 This will help with verifying each bingo.
 
 The rest of the group will use the play page.
 On the play page is the bingo card.
 Each bingo card is generated randomly.
-When the host calls out an emoji,
-find that particular emoji on your card.
-If your card contains the given emoji,
+When the host calls out a word,
+find that particular geographic term on your card.
+If your card contains the given term,
 click it.
-If it doesn't contain the given emoji,
-wait for the host to give the next emoji.
-If you accidentally click an emoji,
+If it doesn't contain it,
+wait for the host to give the next word.
+If you accidentally click a square,
 you can click it again to deselect it.
 
-As you select more and more emoji,
-the game will let you know when you have a bingo.
 When you get a bingo,
 let the host know so they can verify it.
 
